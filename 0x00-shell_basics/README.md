@@ -9,3 +9,4 @@ This script moves the file betty from /tmp/ to /tmp/my_first_directory
 This script deletes the file betty
 This script deletes the directory my_first_directory that is in the /tmp directory
 A script that changes the working directory to the previous one
+Script that prints the type of the file named iamafile. The file iamafile will be in the /tmp directory when we will run your script
