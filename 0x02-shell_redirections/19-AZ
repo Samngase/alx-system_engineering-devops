@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "A cat chased a mouse" | tr 'Ac' 'Ze'
+tr Ac Ze
